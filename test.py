@@ -1,3 +1,3 @@
 print("hello")
 print("world")
-print("hehe")
+print("hoho")
